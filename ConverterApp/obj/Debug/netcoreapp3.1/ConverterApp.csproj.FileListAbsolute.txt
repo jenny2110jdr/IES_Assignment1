@@ -1,0 +1,13 @@
+G:\Information and Encoding\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.csprojAssemblyReference.cache
+G:\Information and Encoding\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfoInputs.cache
+G:\Information and Encoding\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.AssemblyInfo.cs
+G:\Information and Encoding\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.csproj.CoreCompileInputs.cache
+G:\Information and Encoding\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.exe
+G:\Information and Encoding\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.deps.json
+G:\Information and Encoding\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.runtimeconfig.json
+G:\Information and Encoding\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.runtimeconfig.dev.json
+G:\Information and Encoding\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.dll
+G:\Information and Encoding\ConverterApp\ConverterApp\bin\Debug\netcoreapp3.1\ConverterApp.pdb
+G:\Information and Encoding\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.dll
+G:\Information and Encoding\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.pdb
+G:\Information and Encoding\ConverterApp\ConverterApp\obj\Debug\netcoreapp3.1\ConverterApp.genruntimeconfig.cache
